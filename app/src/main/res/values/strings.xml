@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My First Git Project</string>
+    <string name="git_flow">Мой первый Git Flow!</string>
 </resources>
